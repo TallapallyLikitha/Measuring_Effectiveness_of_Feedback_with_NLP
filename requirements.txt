@@ -1,10 +1,19 @@
+# Core
 numpy
 pandas
 scikit-learn
-matplotlib
-wordcloud
+
+# NLP
 torch
 transformers
 datasets
 evaluate
 accelerate
+
+# Visualization
+matplotlib
+wordcloud
+
+torch>=1.13
+transformers>=4.30
+
